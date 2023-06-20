@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2023-06-19T19:32:27.753Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="LRUQEeOIzHqN583YuKwb" version="21.3.7" type="device">
+  <diagram name="Page-1" id="Mz17QsXKktata4XI5J1Q">
+    <mxGraphModel dx="1195" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" edge="1" parent="1" source="tTJCKD_pjqQoP9p8lMTK-2" target="tTJCKD_pjqQoP9p8lMTK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-2" value="&lt;b&gt;-process-&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;menghitung luas balok&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;dengan rumus LB = P x L x T&lt;/div&gt;&lt;div style=&quot;&quot;&gt;LB = 10 x 7 x 15&lt;/div&gt;&lt;div style=&quot;&quot;&gt;LB = 70 x 15&lt;/div&gt;&lt;div style=&quot;&quot;&gt;LB = 1050&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="599.16" y="375" width="211.67" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.12;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="tTJCKD_pjqQoP9p8lMTK-3" target="tTJCKD_pjqQoP9p8lMTK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;start&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="233.33" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="tTJCKD_pjqQoP9p8lMTK-4" target="tTJCKD_pjqQoP9p8lMTK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;-input-&lt;br&gt;&lt;/b&gt;masukkan angka panjang,&amp;nbsp;&lt;br&gt;lebar, dan tinggi dari&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;jajargenjang yang ingin dihitung&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="19.05" width="250" height="130.95" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="tTJCKD_pjqQoP9p8lMTK-5" target="tTJCKD_pjqQoP9p8lMTK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-5" value="&lt;div&gt;P : 10&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;L : 7&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;T : 15&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;direction=west;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="580" y="19.049999999999997" width="250" height="130.95" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="tTJCKD_pjqQoP9p8lMTK-7" target="tTJCKD_pjqQoP9p8lMTK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="tTJCKD_pjqQoP9p8lMTK-7" target="tTJCKD_pjqQoP9p8lMTK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-7" value="hasil dari perhitungan rumus balok" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="318.16" y="375" width="211.67" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;end&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="9.16" y="370" width="233.33" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="tTJCKD_pjqQoP9p8lMTK-15" target="tTJCKD_pjqQoP9p8lMTK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tTJCKD_pjqQoP9p8lMTK-15" value="masih ada yang akan dihitung" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="140" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
